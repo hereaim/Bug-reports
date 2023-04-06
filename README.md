@@ -1,4 +1,4 @@
-[![Header](https://github.com/gremoriru/Checklist/blob/main/asset/checklist.jpg)]()
+[![Header](https://github.com/gremoriru/Bug-reports/blob/main/asset/bug.png)]()
 ## This repository stores various public bug reports created during the learning process
 
 ### Bug reports
